@@ -1,19 +1,19 @@
 ## What are ML metrics?
 ML metrics are measures used to evaluate how well your machine learning model is performing. They help answer questions like:
 
-How accurate are my predictions?
+- How accurate are my predictions?
 
-Where is my model going wrong?
+- Where is my model going wrong?
 
-Is my model biased toward certain outcomes?
+- Is my model biased toward certain outcomes?
 
-Should I adjust my model or collect more data?
+- Should I adjust my model or collect more data?
 
-The right metric depends on:
+- The right metric depends on:
 
-The type of problem (classification, regression, clustering, etc.)
+- The type of problem (classification, regression, clustering, etc.)
 
-The dataset (balanced or imbalanced)
+- The dataset (balanced or imbalanced)
 
 ## There are two types of metrices used in ml:
  **1.Regression metrices**

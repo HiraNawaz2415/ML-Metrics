@@ -57,3 +57,9 @@ Formula:
 | **MSE**  | Emphasizing large errors        | Penalizes big errors more              |
 | **RMSE** | Same as above but interpretable | Most commonly reported                 |
 | **R²**   | How good is your model overall? | Gives percentage of variance explained |
+
+## Evaluation
+| Metric             | Good            | Bad                        |
+| ------------------ | --------------- | -------------------------- |
+| **MSE, RMSE, MAE** | Lower is better | Higher means bigger errors |
+| **R²**             | Closer to 1     | Closer to 0 (or negative)  |
